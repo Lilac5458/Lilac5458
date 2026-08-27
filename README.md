@@ -9,7 +9,4 @@
 - 😄 Pronouns: **he/him**
 
 ### Connect with me:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonfull)
-
-I'd recommend the second one — it'll look much more like the template you showed.
