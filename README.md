@@ -1,7 +1,7 @@
 <div align="center">
-Hi there I'm Jackson
+<h1> Hi there I'm Jackson
 
-### also known as Lilac5458
+<h3> also known as Lilac5458
 </div>
 
 - 🎓 I'm currently studying **Computer & Information Sciences at AUT.**
