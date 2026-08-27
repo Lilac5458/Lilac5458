@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there I'm Jackson
+<h1> Hi 👋, I'm Jackson
 
 <h3> also known as Lilac5458
 </div>
