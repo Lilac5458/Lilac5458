@@ -3,7 +3,8 @@
 
 <h3> also known as Lilac5458
 </div>
-
+  
+<img src="https://komarev.com/ghpvc/?username=Lilac5458&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 - 🎓 I'm currently studying **Computer & Information Sciences at AUT.**
 - 📊 Major: **Data Science** | Minor: **Business Management**
