@@ -4,6 +4,7 @@
 <h3> also known as Lilac5458
 </div>
 
+
 - 🎓 I'm currently studying **Computer & Information Sciences at AUT.**
 - 📊 Major: **Data Science** | Minor: **Business Management**
 - 📫 How to reach me: **jacksonfull5458@gmail.com**
